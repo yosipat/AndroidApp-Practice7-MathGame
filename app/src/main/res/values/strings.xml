@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice7-Math Game</string>
+    <string name="appname">Math Game</string>
+    <string name="question">Question</string>
+    <string name="result">Result</string>
+    <string name="summary">Summary</string>
+    <string name="back_button">Back</string>
+</resources>
